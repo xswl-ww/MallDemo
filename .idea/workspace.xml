@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shopping:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37cd16ca-c547-4881-8907-6ccb2ce6ab51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MallDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/alt/altServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/alt/altServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/alt/leaveMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/alt/leaveMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/databaseconnection/DBConnectionManger.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/databaseconnection/DBConnectionManger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/databaseoperate/DataBaseOperate.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/databaseoperate/DataBaseOperate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/servlet/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/servlet/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/servlet/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/WEB-INF/classes/com/servlet/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/01.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/04.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/images/j1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/WebRoot/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/WebRoot/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/01.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/04.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/out/artifacts/MallDemo_war_exploded/images/j1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MallDemo/src/com/databaseconnection/DBConnectionManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/MallDemo/src/com/databaseconnection/DBConnectionManger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MallDemo" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1dFmjYQL0H74GyITJfjRDe8xgAN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.352" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.352" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/shopping_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="shopping:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shopping_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MallDemo_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58365" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shopping:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37cd16ca-c547-4881-8907-6ccb2ce6ab51" name="Default Changelist" comment="" />
+      <created>1592029350202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592029350202</updated>
+      <workItem from="1592029355194" duration="27000" />
+      <workItem from="1592029388806" duration="1771000" />
+      <workItem from="1592555576949" duration="194000" />
+      <workItem from="1592556274299" duration="1101000" />
+      <workItem from="1592721325259" duration="1846000" />
+      <workItem from="1592738580193" duration="2013000" />
+      <workItem from="1592752630479" duration="331000" />
+      <workItem from="1592753416721" duration="2924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="115" width="1088" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592721547767">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="309" y="115" width="1088" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1592721547767" />
+    <state x="643" y="366" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1592030322924">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="643" y="366" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1707.920@0.0.1707.920" timestamp="1592030322924" />
+    <state x="684" y="153" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1592030133518">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="684" y="153" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1707.920@0.0.1707.920" timestamp="1592030133518" />
+    <state x="584" y="214" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592030134886">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="214" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1707.920@0.0.1707.920" timestamp="1592030134886" />
+    <state x="537" y="200" key="FileChooserDialogImpl" timestamp="1592752658557">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="537" y="200" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1592752658557" />
+    <state width="655" height="250" key="GridCell.Tab.0.bottom" timestamp="1592721674340">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1592721674340" />
+    <state width="655" height="250" key="GridCell.Tab.0.center" timestamp="1592721674340">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1592721674340" />
+    <state width="655" height="250" key="GridCell.Tab.0.left" timestamp="1592721674340">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1592721674340" />
+    <state width="655" height="250" key="GridCell.Tab.0.right" timestamp="1592721674340">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1592721674340" />
+    <state width="655" height="250" key="GridCell.Tab.1.bottom" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.1.center" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.1.left" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.1.right" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.2.bottom" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.2.bottom/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.2.center" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.2.center/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.2.left" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.2.left/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="655" height="250" key="GridCell.Tab.2.right" timestamp="1592721563762">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="655" height="250" key="GridCell.Tab.2.right/0.0.1707.920@0.0.1707.920" timestamp="1592721563762" />
+    <state width="660" height="515" key="GridCell.Tab.3.bottom" timestamp="1592032059822">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="660" height="515" key="GridCell.Tab.3.bottom/0.0.1707.920@0.0.1707.920" timestamp="1592032059822" />
+    <state width="660" height="515" key="GridCell.Tab.3.center" timestamp="1592032059822">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="660" height="515" key="GridCell.Tab.3.center/0.0.1707.920@0.0.1707.920" timestamp="1592032059822" />
+    <state width="660" height="515" key="GridCell.Tab.3.left" timestamp="1592032059822">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="660" height="515" key="GridCell.Tab.3.left/0.0.1707.920@0.0.1707.920" timestamp="1592032059822" />
+    <state width="660" height="515" key="GridCell.Tab.3.right" timestamp="1592032059822">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="660" height="515" key="GridCell.Tab.3.right/0.0.1707.920@0.0.1707.920" timestamp="1592032059822" />
+    <state x="501" y="163" key="NewModule_or_Project.wizard" timestamp="1592752674255">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="501" y="163" key="NewModule_or_Project.wizard/0.0.1707.920@0.0.1707.920" timestamp="1592752674255" />
+    <state x="612" y="161" key="RollbackChangesDialog" timestamp="1592755778245">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="612" y="161" key="RollbackChangesDialog/0.0.1707.920@0.0.1707.920" timestamp="1592755778245" />
+    <state x="334" y="34" key="SettingsEditor" timestamp="1592030471353">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="334" y="34" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1592030471353" />
+  </component>
+</project>
